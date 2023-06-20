@@ -10,7 +10,7 @@
 # 5. assetfinder: Download and install using 'go get -u github.com/tomnomnom/assetfinder'
 # 6. httprobe: Download and install using 'go get -u github.com/tomnomnom/httprobe'
 # Usage Guide:
-# Execute the script with the domain as an argument: ./script.sh example.com
+# Execute the script with the domain as an argument: ./domain_osint.sh example.com
 
 domain=$1
 RED="\033[1;31m"
