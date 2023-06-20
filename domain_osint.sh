@@ -3,13 +3,12 @@
 # Install required tools:
 # 1. openssl: Already installed on most systems, otherwise install the 'openssl' package using your system's package manager.
 # 2. dig: sudo apt-get install dnsutils (Debian/Ubuntu) / sudo yum install bind-utils (RHEL/CentOS/Fedora) / sudo pacman -S bind-tools (Arch Linux)
-# 3. nuclei: Download the latest release from https://github.com/projectdiscovery/nuclei/releases and follow the installation guide.
-# 4. subfinder: Download the latest release from https://github.com/projectdiscovery/subfinder/releases and
-# 7. gowitness: Download the latest release from https://github.com/sensepost/gowitness/releases and follow the installation guide.
+# 3. nuclei: Download the latest release from https://github.com/projectdiscovery/nuclei and follow the installation guide.
+# 4. subfinder: Download the latest release from https://github.com/projectdiscovery/subfinder 
+# 7. gowitness: Download the latest release from https://github.com/sensepost/gowitness and follow the installation guide.
 # Usage Guide: follow the installation guide.
 # 5. assetfinder: Download and install using 'go get -u github.com/tomnomnom/assetfinder'
 # 6. httprobe: Download and install using 'go get -u github.com/tomnomnom/httprobe'
-# 7. gowitness: Download the latest release from https://github.com/sensepost/gowitness/releases and follow the installation guide.
 # Usage Guide:
 # Execute the script with the domain as an argument: ./script.sh example.com
 
