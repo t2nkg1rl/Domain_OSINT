@@ -1,6 +1,6 @@
 # Domain_OSINT
 
-This Domain Reconnaissance Tool is a Bash script designed to collect and analyze information on a specified domain. The script uses a variety of open-source tools to accomplish its tasks, including Assetfinder, Gowitness and nuclei. By inputting a target domain, the script conducts the following tasks:
+This Domain Reconnaissance Tool is a Bash script designed to collect and analyze information on a specified domain. The script uses a variety of open-source tools to accomplish its tasks, including Assetfinder, Subfinder Gowitness and nuclei. By inputting a target domain, the script conducts the following tasks:
 
 1. Gathers WHOIS information, providing general details about the domain ownership and registration.
 2. Discovers subdomains and lists them using Subfinder and Assetfinder tools.
